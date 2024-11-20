@@ -1,0 +1,1 @@
+ALTER TABLE "clicks" ALTER COLUMN "url_id" SET DATA TYPE varchar(8);
